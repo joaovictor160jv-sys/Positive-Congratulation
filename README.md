@@ -16,10 +16,12 @@ O projeto simula uma página de mensagem positiva/congratulativa, com um layout 
 📱 Responsividade
 
 A aplicação foi desenvolvida pensando em usabilidade tanto em dispositivos móveis quanto em desktops, garantindo uma boa experiência em qualquer tela.
+
 🖼️ Preview
+<br>
 <br>
 💻 Desktop
 <img src="https://github.com/joaovictor160jv-sys/Positive-Congratulation/blob/master/Assets/Desktop-Positive.png.png?raw=true">
-<b>
 📱 Mobile
+<br>
 <img src="https://github.com/joaovictor160jv-sys/Positive-Congratulation/blob/master/Assets/Mobile-Positive.png.png?raw=true">
